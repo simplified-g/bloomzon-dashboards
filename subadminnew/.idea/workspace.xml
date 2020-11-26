@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af00f496-3caf-4e96-8cb6-8bf1355fb44e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/asset/css/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bb7BPVit4TXYrkjc0wF6puzJiz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af00f496-3caf-4e96-8cb6-8bf1355fb44e" name="Default Changelist" comment="" />
+      <created>1588888802117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588888802117</updated>
+      <workItem from="1588888803650" duration="9024000" />
+      <workItem from="1588940282070" duration="568000" />
+      <workItem from="1590226780311" duration="10205000" />
+      <workItem from="1590339623708" duration="534000" />
+      <workItem from="1590527130710" duration="32036000" />
+      <workItem from="1590657784457" duration="651000" />
+      <workItem from="1590787426132" duration="53000" />
+      <workItem from="1590836570204" duration="1009000" />
+      <workItem from="1590838297449" duration="776000" />
+      <workItem from="1590845780602" duration="1658000" />
+      <workItem from="1590849864881" duration="627000" />
+      <workItem from="1590863308490" duration="1062000" />
+      <workItem from="1590865051638" duration="45000" />
+      <workItem from="1590865142010" duration="102000" />
+      <workItem from="1590865798585" duration="88000" />
+      <workItem from="1590873851665" duration="99000" />
+      <workItem from="1590874055084" duration="16000" />
+      <workItem from="1590874407868" duration="4000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changed subadmindashboard.html to index.html">
+      <created>1590658728465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590658728465</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Made Adjustments to suit web">
+      <created>1590838946537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590838946537</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" UI Adjustments to Dashboard">
+      <created>1590863763436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590863763436</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" UI Adjustments to Dashboard 01">
+      <created>1590873869724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590873869724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed subadmindashboard.html to index.html" />
+    <MESSAGE value="Made Adjustments to suit web" />
+    <MESSAGE value=" UI Adjustments to Dashboard" />
+    <MESSAGE value=" UI Adjustments to Dashboard 01" />
+    <option name="LAST_COMMIT_MESSAGE" value=" UI Adjustments to Dashboard 01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590572255860">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590572255860" />
+    <state x="307" y="25" key="CommitChangelistDialog2" timestamp="1590873869379">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="307" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590873869379" />
+    <state x="563" y="354" key="Github.ShareDialog" timestamp="1590657817043">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="563" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1590657817043" />
+    <state x="475" y="162" key="Github.UntrackedFilesDialog" timestamp="1590657826233">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="475" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590657826233" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590873882763">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590873882763" />
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1590584478264">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590584478264" />
+  </component>
+</project>
